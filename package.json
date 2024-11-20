@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "vite": "^5.4.11"
+  },
+  "name": "portofolio",
+  "description": "Hello",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
